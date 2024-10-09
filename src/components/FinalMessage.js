@@ -16,7 +16,7 @@ const FinalMessage = () => {
   return (
     <div className="flex flex-col items-center justify-center absolute inset-0 bg-white bg-opacity-80 rounded-lg shadow-lg p-8 text-center">
       <h2 className="text-3xl font-bold text-gray-800 mb-4">
-        You are beautiful than 🌹!
+      😍You are beautiful than 🌹!
       </h2>
       <p className="text-gray-600 mb-6">
         Just like a rose, your beauty shines brightly in ..... life.
@@ -25,7 +25,7 @@ const FinalMessage = () => {
         className="bg-pink-600 hover:bg-pink-700 text-white font-semibold py-2 px-4 rounded-full transition duration-300 ease-in-out"
         onClick={handleClick}
       >
-        click ❤️ 
+        click 
       </button>
 
       <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
