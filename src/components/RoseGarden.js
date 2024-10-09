@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Rose from './Rose';
 import FinalMessage from './FinalMessage';
-import music from '../assets/Rojalove.mp3'; // Import background music
+import music from '../assets/LoveM.mp3'; // Import background music
 
 const RoseGarden = () => {
   const [showFinalMessage, setShowFinalMessage] = useState(false);
