@@ -16,7 +16,7 @@ const FinalMessage = () => {
   return (
     <div className="flex flex-col items-center justify-center absolute inset-0 bg-white bg-opacity-80 rounded-lg shadow-lg p-8 text-center">
       <h2 className="text-3xl font-bold text-gray-800 mb-4">
-      😍You are beautiful than 🌹!
+      😍🧚‍♀️You are beautiful than 🌹!
       </h2>
       <p className="text-gray-600 mb-6">
         Just like a rose, your beauty shines brightly in ..... life.
